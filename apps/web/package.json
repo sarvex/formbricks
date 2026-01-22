@@ -100,7 +100,7 @@
     "jsonwebtoken": "9.0.2",
     "langfuse-vercel": "3.31.3",
     "lexical": "0.21.0",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "lru-cache": "11.0.2",
     "lucide-react": "0.468.0",
     "mime": "4.0.4",
